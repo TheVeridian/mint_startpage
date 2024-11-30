@@ -22,8 +22,8 @@
   --cards:#00FFFF; /* Cards color */
 
   /* Fonts Color */
-  --fg: #F0C0F2; /* Foreground color */
-  --sfg: #F0C0F2; /* Secondary Foreground color */
+  --fg: #FFFFFF; /* Foreground color */
+  --sfg: #FFFFFF; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -39,8 +39,8 @@
   --cards: #0D052B; /* Cards color */
 
   /* Fonts Color */
-  --fg: #00FFFF; /* Foreground color */
-  --sfg: #fff; /* Secondary Foreground color */
+  --fg: ##F0C0F2; /* Foreground color */
+  --sfg: ##F0C0F2; /* Secondary Foreground color */
 
 
   /* Image background  */
