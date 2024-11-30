@@ -16,8 +16,6 @@
   --fg-list: 2vh; /* Links List */
   --icon: 3vh; /* Icon Size */
 
-  /* Fonts Color */
-
   /* Dark Colors  */
   --accent: #fff; /* Hover color */
   --background: #00FFFF; /* Background color */
@@ -25,7 +23,7 @@
 
   /* Fonts Color */
   --fg: #F0C0F2; /* Foreground color */
-  --sfg: #00FFFF; /* Secondary Foreground color */
+  --sfg: #F0C0F2; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
