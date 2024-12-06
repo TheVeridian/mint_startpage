@@ -18,8 +18,8 @@
 
   /* Dark Colors  */
   --accent: #312A4B; /* Hover color */
-  --background: #0D052B; /* Background color */
-  --cards:#0D052B; /* Cards color */
+  --background: #0E052C; /* Background color */
+  --cards:#0E052C; /* Cards color */
 
   /* Fonts Color */
   --fg: #FFFFFF; /* Foreground color */
@@ -35,8 +35,8 @@
 
 .darktheme {
   --accent: #312A4B; /* Hover color */
-  --background: #0D052B; /* Background color */
-  --cards: #0D052B; /* Cards color */
+  --background: #0E052C; /* Background color */
+  --cards: #0E052C; /* Cards color */
 
   /* Fonts Color */
   --fg: #F0C0F2; /* Foreground color */
@@ -81,7 +81,7 @@ body {
   background-size: cover;
 }
 
- #themeButton {
+/* #themeButton {
   position: absolute;
   margin: 2em 2em 0 0;
   right: 0;
@@ -105,7 +105,7 @@ body {
   grid-template-rows: repeat(4, 1fr);
   grid-gap: 30px;
   padding: 20px;
-}
+}*/
 
 .card {
   background-color: var(--cards);
