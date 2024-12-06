@@ -17,9 +17,9 @@
   --icon: 3vh; /* Icon Size */
 
   /* Dark Colors  */
-  --accent: #fff; /* Hover color */
-  --background: #00FFFF; /* Background color */
-  --cards:#00FFFF; /* Cards color */
+  --accent: #312A4B; /* Hover color */
+  --background: #312A4B; /* Background color */
+  --cards:#0D052B; /* Cards color */
 
   /* Fonts Color */
   --fg: #FFFFFF; /* Foreground color */
@@ -81,21 +81,21 @@ body {
   background-size: cover;
 }
 
-#themeButton {
-  position: absolute;
-  margin: 2em 2em 0 0;
-  right: 0;
-  top: 0;
-  color: var(--fg);
-  border: none;
-  cursor: pointer;
-  background-color: #00000000;
-}
+# #themeButton {
+#  position: absolute;
+#  margin: 2em 2em 0 0;
+#  right: 0;
+#  top: 0;
+#  color: var(--fg);
+#  border: none;
+#  cursor: pointer;
+#  background-color: #00000000;
+#}
 
-#themeIcon {
-  width: 25px;
-  height: 25px;
-}
+# #themeIcon {
+#  width: 25px;
+#  height: 25px;
+#}
 
 .container {
   width: 145vh;

@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'NextDNS',
+			icon: 'globe-lock',
+			link: 'https://my.nextdns.io/549935/analytics',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Google Photos',
+			icon: 'images',
+			link: 'https://photos.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Google Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Trello',
+			icon: 'trello',
+			link: 'https://trello.com',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Google Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Waze',
+			icon: 'map-pinned',
+			link: 'https://www.waze.com/live-map/',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'code-xml',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'GitHub',
+					link: 'https://github.com/TheVeridian',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'GitLab',
+					link: 'https://forum.gitlab.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Slack',
+					link: 'https://www.slack.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'AUR',
+					link: 'https://aur.archlinux.org/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'list-video',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'YouTube',
+					link: 'https://youtube.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Bandcamp',
+					link: 'https://bandcamp.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Midnight - Spotify',
+					link: 'https://open.spotify.com/playlist/47H526KOWWDsp1JLuLSJIC?si=RjAZLTGgRDG3Pw1Cssd9lg',
 				},
 			],
 		},
