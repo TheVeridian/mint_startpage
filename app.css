@@ -81,7 +81,7 @@ body {
   background-size: cover;
 }
 
-/* #themeButton {
+ #themeButton {
   position: absolute;
   margin: 2em 2em 0 0;
   right: 0;
@@ -95,7 +95,7 @@ body {
  #themeIcon {
   width: 25px;
   height: 25px;
-}*/
+}
 
 .container {
   width: 145vh;
