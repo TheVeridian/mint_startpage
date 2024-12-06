@@ -21,13 +21,13 @@ const enableDark = () => {
 #	lucide.createIcons();
 #};
 
-if (darkTheme === 'enabled') {
-	document.body.classList.add('notransition');
-	enableDark();
-	document.body.classList.remove('notransition');
-} else {
-	disableDark();
-}
+#if (darkTheme === 'enabled') {
+#	document.body.classList.add('notransition');
+#	enableDark();
+#	document.body.classList.remove('notransition');
+#} else {
+#	disableDark();
+#}
 
 #themeToggle.addEventListener('click', () => {
 #	darkTheme = localStorage.getItem('darkTheme');
