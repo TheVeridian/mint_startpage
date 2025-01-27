@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '5c3747b924bc8b06d1d43683c3ee93fd', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'Whitei'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://forum.gitlab.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com/',
+					name: 'OctoPi',
+					link: 'http://octopi.local/',
 				},
 				{
 					name: 'AUR',
