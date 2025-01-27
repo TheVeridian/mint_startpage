@@ -139,16 +139,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'OctoPrint',
+					link: 'http://octopi.local/',
+				},
+				{
 					name: 'GitHub',
 					link: 'https://github.com/TheVeridian',
 				},
 				{
 					name: 'GitLab',
-					link: 'https://forum.gitlab.com/',
-				},
-				{
-					name: 'OctoPi',
-					link: 'http://octopi.local/',
+						link: 'https://forum.gitlab.com/',
 				},
 				{
 					name: 'AUR',
