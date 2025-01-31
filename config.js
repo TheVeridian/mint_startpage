@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'OctoPrint',
-					link: 'http://192.168.1.146/',
+					link: 'http://en3pro.local/',
 				},
 				{
 					name: 'GitHub',
