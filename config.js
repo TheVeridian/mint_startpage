@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'OctoPrint',
-					link: 'http://en3pro.local/',
+					link: 'http://neptune3pro.local/',
 				},
 				{
 					name: 'GitHub',
