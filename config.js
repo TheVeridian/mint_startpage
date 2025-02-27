@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Waze',
-			icon: 'map-pinned',
-			link: 'https://www.waze.com/live-map/',
-		},
-		{
-			id: '4',
-			name: 'Google Photos',
-			icon: 'images',
-			link: 'https://photos.google.com/',
-		},
-		{
-			id: '5',
 			name: 'NextDNS',
 			icon: 'globe-lock',
 			link: 'https://my.nextdns.io/549935/analytics',
 		},
 		{
-			id: '6',
+			id: '4',
 			name: 'Google Drive',
 			icon: 'hard-drive',
 			link: 'https://drive.google.com/',
+		},
+		{
+			id: '5',
+			name: 'Waze',
+			icon: 'map-pinned',
+			link: 'https://www.waze.com/live-map/',
+		},
+		{
+			id: '6',
+			name: 'Google Photos',
+			icon: 'images',
+			link: 'https://photos.google.com/',
 		},
 	],
 
