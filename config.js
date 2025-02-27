@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'NextDNS',
-			icon: 'globe-lock',
-			link: 'https://my.nextdns.io/549935/analytics',
-		},
-		{
-			id: '2',
-			name: 'Google Photos',
-			icon: 'images',
-			link: 'https://photos.google.com/',
-		},
-		{
-			id: '3',
-			name: 'Google Drive',
-			icon: 'hard-drive',
-			link: 'https://drive.google.com/',
-		},
-		{
-			id: '4',
-			name: 'Trello',
-			icon: 'trello',
-			link: 'https://trello.com',
-		},
-		{
-			id: '5',
 			name: 'Google Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/',
 		},
 		{
-			id: '6',
+			id: '2',
+			name: 'Trello',
+			icon: 'trello',
+			link: 'https://trello.com/',
+		},
+		{
+			id: '3',
 			name: 'Waze',
 			icon: 'map-pinned',
 			link: 'https://www.waze.com/live-map/',
+		},
+		{
+			id: '4',
+			name: 'Google Photos',
+			icon: 'images',
+			link: 'https://photos.google.com/',
+		},
+		{
+			id: '5',
+			name: 'NextDNS',
+			icon: 'globe-lock',
+			link: 'https://my.nextdns.io/549935/analytics',
+		},
+		{
+			id: '6',
+			name: 'Google Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com/',
 		},
 	],
 
