@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://youtube.com/',
 				},
 				{
-					name: 'Bandcamp',
-					link: 'https://bandcamp.com/',
+					name: 'YT Music',
+					link: 'https://music.youtube.com/',
 				},
 				{
 					name: 'Spotify',
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Midnight - Spotify',
-					link: 'https://open.spotify.com/playlist/47H526KOWWDsp1JLuLSJIC?si=RjAZLTGgRDG3Pw1Cssd9lg',
+					name: 'Bandcamp',
+					link: 'https://bandcamp.com/',
 				},
 			],
 		},
