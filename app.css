@@ -22,8 +22,8 @@
   --cards: #151b1b; /* Cards color */
 
   /* Fonts Color */
-  --fg: #aaf0bc; /* Foreground color */
-  --sfg: #70a17c; /* Secondary Foreground color */
+  --fg: #70a17c; /* Foreground color */
+  --sfg: #aaf0bc; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
