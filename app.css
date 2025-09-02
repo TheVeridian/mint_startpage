@@ -19,7 +19,7 @@
   /* Dark Colors  */
   --accent: #AAF0BC; /* Hover color */
   --background: #060808; /* Background color */
-  --cards: #1b2525; /* Cards color */
+  --cards: #151b1b; /* Cards color */
 
   /* Fonts Color */
   --fg: #70a17c; /* Foreground color */
@@ -36,7 +36,7 @@
 .darktheme {
   --accent: #AAF0BC; /* Hover color */
   --background: #060808; /* Background color */
-  --cards: #1b2525; /* Cards color */
+  --cards: #151b1b; /* Cards color */
 
   /* Fonts Color */
   --fg: #7896a3; /* Foreground color */
