@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Trello',
-			icon: 'trello',
+			icon: 'list-todo',
 			link: 'https://trello.com/',
 		},
 		{
